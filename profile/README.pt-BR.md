@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/gzVN8yd.png" alt="I.U.N.A" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/iuna-wordmark-dark.png" />
+    <img src="assets/iuna-wordmark-light.png" alt="I.U.N.A — Mark II" width="520" />
+  </picture>
 </p>
 
 <p align="center">
@@ -7,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-5B4B9A?style=flat-square" />
-  <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-F39C12?style=flat-square" />
-  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Última versão do modpack" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=5B4B9A" /></a>
+  <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-02184E?style=flat-square" />
+  <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-EA9A00?style=flat-square" />
+  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Última versão do modpack" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=02184E" /></a>
 </p>
 
 <p align="center">
