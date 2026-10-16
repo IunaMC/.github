@@ -1,55 +1,48 @@
 <p align="center">
-  <a href="https://iuna.space">
-    <img src="https://i.imgur.com/gzVN8yd.png" alt="I.U.N.A" />
-  </a>
+  <img src="https://i.imgur.com/gzVN8yd.png" alt="I.U.N.A" />
 </p>
 
 <p align="center">
-  Uma comunidade brasileira de Minecraft feita para amigos — e sim, a gente <i>“não tem nome”</i>.
+  A Brazilian Minecraft community made for friends — and yes, we <i>“don’t have a name”</i>.
 </p>
 
 <p align="center">
-  <a href="https://iuna.space"><img alt="Site" src="https://img.shields.io/badge/site-iuna.space-5865F2?style=flat-square" /></a>
-  <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-62B47A?style=flat-square" />
-  <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-D7742F?style=flat-square" />
-  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Última versão do modpack" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack" /></a>
+  <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-5B4B9A?style=flat-square" />
+  <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-F39C12?style=flat-square" />
+  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Latest modpack release" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=5B4B9A" /></a>
+</p>
+
+<p align="center">
+  <b>English</b> · <a href="https://github.com/IunaMC/.github/blob/main/profile/README.pt-BR.md">Português</a>
 </p>
 
 ---
 
-## Sobre
+## About
 
-O **I.U.N.A** é um servidor de Minecraft modado, mantido por e para um grupo de
-amigos. Rodamos um modpack próprio em **NeoForge 1.21.1**, montado com foco em
-tecnologia, magia, exploração e culinária — Create, Applied Energistics 2,
-Ars Nouveau, Apotheosis e muito mais.
+**I.U.N.A** is a modded Minecraft server run by and for a group of friends. We
+play on our own **NeoForge 1.21.1** modpack, built around tech, magic,
+exploration and cooking — Create, Applied Energistics 2, Ars Nouveau,
+Apotheosis and plenty more.
 
-Tudo o que dá para ser aberto fica aqui no GitHub: a lista de mods, o histórico
-de mudanças e o espaço para a comunidade sugerir e reportar coisas.
+The server is private and open only to members of our Discord community. Even
+so, everything that can be public lives here on GitHub: the mod list, the
+changelog and a place for the community to report problems and suggest ideas.
 
-## Como jogar
+## Repositories
 
-1. Baixe a [última versão do modpack](https://github.com/IunaMC/modpack-cliente/releases/latest).
-2. Importe no seu launcher com **Minecraft 1.21.1** e **NeoForge**.
-3. Entre no servidor e divirta-se.
-
-Ficou com dúvida ou travou em algum passo? Abra uma
-[issue](https://github.com/IunaMC/issues/issues) que a gente ajuda.
-
-## Repositórios
-
-| Repositório | Para que serve |
+| Repository | What it is for |
 | :-- | :-- |
-| [**modpack-cliente**](https://github.com/IunaMC/modpack-cliente) | Mods dos jogadores: obrigatórios, opcionais, changelog e releases. |
-| [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Mods que rodam no servidor. |
-| [**issues**](https://github.com/IunaMC/issues) | Bugs, sugestões de mods, pedidos e melhorias da comunidade. |
+| [**modpack-cliente**](https://github.com/IunaMC/modpack-cliente) | Player-side mods: required, optional, changelog and releases. |
+| [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Server-side mods. |
+| [**issues**](https://github.com/IunaMC/issues) | Bugs, mod suggestions, requests and improvements from the community. |
 
-## Participe
+## Get involved
 
-- **Achou um bug ou quer sugerir um mod?** Abra uma issue em
+- **Found a bug or want to suggest a mod?** Open an issue at
   [IunaMC/issues](https://github.com/IunaMC/issues/issues).
-- **Quer acompanhar o que mudou?** Veja o
-  [changelog do modpack](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md).
-- **Outros assuntos:** [contato@iuna.space](mailto:contato@iuna.space).
+- **Want to know what changed?** Check the
+  [modpack changelog](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md).
+- **Anything else:** [contato@iuna.space](mailto:contato@iuna.space).
 
-<p align="center"><sub>Feito com carinho no Brasil 🇧🇷</sub></p>
+<p align="center"><sub>Made with care in Brazil 🇧🇷</sub></p>
