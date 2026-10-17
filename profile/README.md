@@ -6,46 +6,46 @@
 </p>
 
 <p align="center">
-  A Brazilian Minecraft community made for friends — and yes, we <i>“don’t have a name”</i>.
+  Uma comunidade brasileira de Minecraft feita para amigos — e sim, a gente <i>“não tem nome”</i>.
 </p>
 
 <p align="center">
   <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-02184E?style=flat-square" />
   <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-EA9A00?style=flat-square" />
-  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Latest modpack release" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=02184E" /></a>
+  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Última versão do modpack" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=02184E" /></a>
 </p>
 
 <p align="center">
-  <b>English</b> · <a href="https://github.com/IunaMC/.github/blob/main/profile/README.pt-BR.md">Português</a>
+  <b>Português</b> · <a href="https://github.com/IunaMC/.github/blob/main/profile/README.en.md">English</a>
 </p>
 
 ---
 
-## About
+## Sobre
 
-**I.U.N.A** is a modded Minecraft server run by and for a group of friends. We
-play on our own **NeoForge 1.21.1** modpack, built around tech, magic,
-exploration and cooking — Create, Applied Energistics 2, Ars Nouveau,
-Apotheosis and plenty more.
+O **I.U.N.A** é um servidor de Minecraft modado, mantido por e para um grupo de
+amigos. Jogamos num modpack próprio em **NeoForge 1.21.1**, montado com foco em
+tecnologia, magia, exploração e culinária — Create, Applied Energistics 2,
+Ars Nouveau, Apotheosis e muito mais.
 
-The server is private and open only to members of our Discord community. Even
-so, everything that can be public lives here on GitHub: the mod list, the
-changelog and a place for the community to report problems and suggest ideas.
+O servidor é fechado, aberto apenas para membros da nossa comunidade no Discord.
+Mesmo assim, tudo o que pode ser público fica aqui no GitHub: a lista de mods, o
+changelog e um espaço para a comunidade reportar problemas e sugerir ideias.
 
-## Repositories
+## Repositórios
 
-| Repository | What it is for |
+| Repositório | Para que serve |
 | :-- | :-- |
-| [**modpack-cliente**](https://github.com/IunaMC/modpack-cliente) | Player-side mods: required, optional, changelog and releases. |
-| [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Server-side mods. |
-| [**issues**](https://github.com/IunaMC/issues) | Bugs, mod suggestions, requests and improvements from the community. |
+| [**modpack-cliente**](https://github.com/IunaMC/modpack-cliente) | Mods dos jogadores: obrigatórios, opcionais, changelog e releases. |
+| [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Mods que rodam no servidor. |
+| [**issues**](https://github.com/IunaMC/issues) | Bugs, sugestões de mods, pedidos e melhorias da comunidade. |
 
-## Get involved
+## Participe
 
-- **Found a bug or want to suggest a mod?** Open an issue at
+- **Achou um bug ou quer sugerir um mod?** Abra uma issue em
   [IunaMC/issues](https://github.com/IunaMC/issues/issues).
-- **Want to know what changed?** Check the
-  [modpack changelog](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md).
-- **Anything else:** [contato@iuna.space](mailto:contato@iuna.space).
+- **Quer acompanhar o que mudou?** Veja o
+  [changelog do modpack](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md).
+- **Outros assuntos:** [contato@iuna.space](mailto:contato@iuna.space).
 
-<p align="center"><sub>Made with care in Brazil 🇧🇷</sub></p>
+<p align="center"><sub>Feito com carinho no Brasil 🇧🇷</sub></p>
