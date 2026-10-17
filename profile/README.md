@@ -12,7 +12,7 @@
 <p align="center">
   <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-02184E?style=flat-square" />
   <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-EA9A00?style=flat-square" />
-  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Última versão do modpack" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=02184E" /></a>
+  <a href="https://github.com/IunaMC/modpack/releases/latest"><img alt="Última versão do modpack" src="https://img.shields.io/github/v/release/IunaMC/modpack?style=flat-square&label=modpack&color=02184E" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ changelog e um espaço para a comunidade reportar problemas e sugerir ideias.
 
 | Repositório | Para que serve |
 | :-- | :-- |
-| [**modpack-cliente**](https://github.com/IunaMC/modpack-cliente) | Mods dos jogadores: obrigatórios, opcionais, changelog e releases. |
+| [**modpack-cliente**](https://github.com/IunaMC/modpack) | Mods dos jogadores: obrigatórios, opcionais, changelog e releases. |
 | [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Mods que rodam no servidor. |
 | [**issues**](https://github.com/IunaMC/issues) | Bugs, sugestões de mods, pedidos e melhorias da comunidade. |
 
@@ -45,7 +45,7 @@ changelog e um espaço para a comunidade reportar problemas e sugerir ideias.
 - **Achou um bug ou quer sugerir um mod?** Abra uma issue em
   [IunaMC/issues](https://github.com/IunaMC/issues/issues).
 - **Quer acompanhar o que mudou?** Veja o
-  [changelog do modpack](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md).
+  [changelog do modpack](https://github.com/IunaMC/modpack/blob/main/MUDANCAS.md).
 - **Outros assuntos:** [contato@iuna.space](mailto:contato@iuna.space).
 
 <p align="center"><sub>Feito com carinho no Brasil 🇧🇷</sub></p>

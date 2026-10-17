@@ -22,7 +22,7 @@ body:
     id: versao
     attributes:
       label: Versão do modpack
-      description: Aparece no nome do ZIP ou nas [releases](https://github.com/IunaMC/modpack-cliente/releases).
+      description: Aparece no nome do ZIP ou nas [releases](https://github.com/IunaMC/modpack/releases).
       placeholder: v2.2.4
     validations:
       required: true
