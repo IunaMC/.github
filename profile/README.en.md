@@ -12,7 +12,7 @@
 <p align="center">
   <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/minecraft-1.21.1-02184E?style=flat-square" />
   <img alt="NeoForge" src="https://img.shields.io/badge/loader-NeoForge-EA9A00?style=flat-square" />
-  <a href="https://github.com/IunaMC/modpack-cliente/releases/latest"><img alt="Latest modpack release" src="https://img.shields.io/github/v/release/IunaMC/modpack-cliente?style=flat-square&label=modpack&color=02184E" /></a>
+  <a href="https://github.com/IunaMC/modpack/releases/latest"><img alt="Latest modpack release" src="https://img.shields.io/github/v/release/IunaMC/modpack?style=flat-square&label=modpack&color=02184E" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ changelog and a place for the community to report problems and suggest ideas.
 
 | Repository | What it is for |
 | :-- | :-- |
-| [**modpack-cliente**](https://github.com/IunaMC/modpack-cliente) | Player-side mods: required, optional, changelog and releases. |
+| [**modpack-cliente**](https://github.com/IunaMC/modpack) | Player-side mods: required, optional, changelog and releases. |
 | [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Server-side mods. |
 | [**issues**](https://github.com/IunaMC/issues) | Bugs, mod suggestions, requests and improvements from the community. |
 
@@ -45,7 +45,7 @@ changelog and a place for the community to report problems and suggest ideas.
 - **Found a bug or want to suggest a mod?** Open an issue at
   [IunaMC/issues](https://github.com/IunaMC/issues/issues).
 - **Want to know what changed?** Check the
-  [modpack changelog](https://github.com/IunaMC/modpack-cliente/blob/main/MUDANCAS.md).
+  [modpack changelog](https://github.com/IunaMC/modpack/blob/main/MUDANCAS.md).
 - **Anything else:** [contato@iuna.space](mailto:contato@iuna.space).
 
 <p align="center"><sub>Made with care in Brazil 🇧🇷</sub></p>
