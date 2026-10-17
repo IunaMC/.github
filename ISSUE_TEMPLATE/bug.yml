@@ -1,0 +1,55 @@
+name: Bug ou crash
+description: Algo não funciona como deveria, ou o jogo/servidor fechou sozinho.
+labels: ["bug", "triagem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Valeu por avisar! Quanto mais detalhes, mais rápido a gente resolve.
+        Antes de abrir, dá uma olhada se já não existe uma [issue parecida](https://github.com/IunaMC/issues/issues?q=is%3Aissue).
+  - type: dropdown
+    id: lado
+    attributes:
+      label: Onde acontece?
+      options:
+        - No meu jogo (cliente)
+        - No servidor
+        - Nos dois
+        - Não sei
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do modpack
+      description: Aparece no nome do ZIP ou nas [releases](https://github.com/IunaMC/modpack-cliente/releases).
+      placeholder: v2.2.4
+    validations:
+      required: true
+  - type: textarea
+    id: descricao
+    attributes:
+      label: O que aconteceu?
+      description: Conte o que você esperava e o que aconteceu de verdade.
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: Como reproduzir
+      description: Passo a passo para fazer o problema acontecer de novo, se souber.
+      placeholder: |
+        1. Coloquei o bloco X
+        2. Cliquei com o item Y
+        3. O jogo fechou
+  - type: textarea
+    id: logs
+    attributes:
+      label: Crash report ou log
+      description: Se o jogo fechou, cole o arquivo de `crash-reports/` ou o `logs/latest.log`. Também dá para arrastar o arquivo aqui.
+      render: text
+  - type: textarea
+    id: extras
+    attributes:
+      label: Prints ou vídeos
+      description: Arraste imagens ou vídeos para cá, se ajudarem a entender.

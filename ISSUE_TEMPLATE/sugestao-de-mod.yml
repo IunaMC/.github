@@ -1,0 +1,58 @@
+name: Sugestão de mod
+description: Peça para adicionar, remover ou atualizar um mod.
+labels: ["sugestão de mod", "triagem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        O modpack roda em **NeoForge 1.21.1**. Mods de outras versões ou loaders (Fabric, Forge) normalmente não funcionam.
+  - type: dropdown
+    id: acao
+    attributes:
+      label: O que você quer?
+      options:
+        - Adicionar um mod
+        - Remover um mod
+        - Atualizar um mod
+    validations:
+      required: true
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do mod
+      placeholder: Create
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Página do mod no Modrinth ou CurseForge.
+      placeholder: https://modrinth.com/mod/create
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Como ele deveria entrar?
+      description: Obrigatórios todo mundo precisa ter; opcionais cada um instala se quiser.
+      options:
+        - Obrigatório (cliente e servidor)
+        - Opcional (só no cliente)
+        - Só no servidor
+        - Não sei
+    validations:
+      required: true
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Por quê?
+      description: O que ele traz para o servidor? Se for remoção, qual o problema com ele?
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacao
+    attributes:
+      label: Confirmação
+      options:
+        - label: O mod tem versão para NeoForge 1.21.1.
