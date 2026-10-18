@@ -32,12 +32,21 @@ O servidor é fechado, aberto apenas para membros da nossa comunidade no Discord
 Mesmo assim, tudo o que pode ser público fica aqui no GitHub: a lista de mods, o
 changelog e um espaço para a comunidade reportar problemas e sugerir ideias.
 
+## Baixe o modpack
+
+- **Modrinth:** [iuna.space/modpack](https://iuna.space/modpack). Abra no
+  Modrinth App ou no Prism Launcher e instale com um clique.
+- **Arquivo `.mrpack`:** [iuna.space/mrpack](https://iuna.space/mrpack) baixa
+  sempre a versão mais recente. Importe no launcher.
+
+O passo a passo completo está no
+[README do modpack](https://github.com/IunaMC/modpack#instalação).
+
 ## Repositórios
 
 | Repositório | Para que serve |
 | :-- | :-- |
-| [**modpack-cliente**](https://github.com/IunaMC/modpack) | Mods dos jogadores: obrigatórios, opcionais, changelog e releases. |
-| [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Mods que rodam no servidor. |
+| [**modpack**](https://github.com/IunaMC/modpack) | O modpack, do jogador e do servidor: lista de mods, changelog e releases. |
 | [**issues**](https://github.com/IunaMC/issues) | Bugs, sugestões de mods, pedidos e melhorias da comunidade. |
 
 ## Participe
