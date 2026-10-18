@@ -32,12 +32,21 @@ The server is private and open only to members of our Discord community. Even
 so, everything that can be public lives here on GitHub: the mod list, the
 changelog and a place for the community to report problems and suggest ideas.
 
+## Get the modpack
+
+- **Modrinth:** [iuna.space/modpack](https://iuna.space/modpack). Open it in
+  the Modrinth App or Prism Launcher and install in one click.
+- **`.mrpack` file:** [iuna.space/mrpack](https://iuna.space/mrpack) always
+  downloads the latest version. Import it in your launcher.
+
+Step-by-step instructions (in Portuguese) are in the
+[modpack README](https://github.com/IunaMC/modpack#instalação).
+
 ## Repositories
 
 | Repository | What it is for |
 | :-- | :-- |
-| [**modpack-cliente**](https://github.com/IunaMC/modpack) | Player-side mods: required, optional, changelog and releases. |
-| [**modpack-servidor**](https://github.com/IunaMC/modpack-servidor) | Server-side mods. |
+| [**modpack**](https://github.com/IunaMC/modpack) | The modpack, for players and the server: mod list, changelog and releases. |
 | [**issues**](https://github.com/IunaMC/issues) | Bugs, mod suggestions, requests and improvements from the community. |
 
 ## Get involved
