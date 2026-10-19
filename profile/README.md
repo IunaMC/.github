@@ -34,10 +34,10 @@ changelog e um espaço para a comunidade reportar problemas e sugerir ideias.
 
 ## Baixe o modpack
 
-- **Modrinth:** [iuna.space/modpack](https://iuna.space/modpack). Abra no
-  Modrinth App ou no Prism Launcher e instale com um clique.
 - **Arquivo `.mrpack`:** [iuna.space/mrpack](https://iuna.space/mrpack) baixa
-  sempre a versão mais recente. Importe no launcher.
+  sempre a versão mais recente. Importe no Prism Launcher (*Add Instance →
+  Import*) ou no Modrinth App (*Import from file*).
+- **Todas as versões e o changelog:** [releases do modpack](https://github.com/IunaMC/modpack/releases).
 
 O passo a passo completo está no
 [README do modpack](https://github.com/IunaMC/modpack#instalação).
