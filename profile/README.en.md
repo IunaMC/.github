@@ -34,7 +34,7 @@ changelog and a place for the community to report problems and suggest ideas.
 
 ## Get the modpack
 
-- **`.mrpack` file:** [iuna.space/mrpack](https://iuna.space/mrpack) always
+- **`.mrpack` file:** [iuna.club/mrpack](https://iuna.club/mrpack) always
   downloads the latest version. Import it in Prism Launcher (*Add Instance →
   Import*) or the Modrinth App (*Import from file*).
 - **All versions and the changelog:** [modpack releases](https://github.com/IunaMC/modpack/releases).
@@ -55,6 +55,6 @@ Step-by-step instructions (in Portuguese) are in the
   [IunaMC/issues](https://github.com/IunaMC/issues/issues).
 - **Want to know what changed?** Check the
   [modpack changelog](https://github.com/IunaMC/modpack/blob/main/MUDANCAS.md).
-- **Anything else:** [contato@iuna.space](mailto:contato@iuna.space).
+- **Anything else:** [contato@iuna.club](mailto:contato@iuna.club).
 
 <p align="center"><sub>Made with care in Brazil 🇧🇷</sub></p>
