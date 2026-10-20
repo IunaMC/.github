@@ -34,7 +34,7 @@ changelog e um espaço para a comunidade reportar problemas e sugerir ideias.
 
 ## Baixe o modpack
 
-- **Arquivo `.mrpack`:** [iuna.space/mrpack](https://iuna.space/mrpack) baixa
+- **Arquivo `.mrpack`:** [iuna.club/mrpack](https://iuna.club/mrpack) baixa
   sempre a versão mais recente. Importe no Prism Launcher (*Add Instance →
   Import*) ou no Modrinth App (*Import from file*).
 - **Todas as versões e o changelog:** [releases do modpack](https://github.com/IunaMC/modpack/releases).
@@ -55,6 +55,6 @@ O passo a passo completo está no
   [IunaMC/issues](https://github.com/IunaMC/issues/issues).
 - **Quer acompanhar o que mudou?** Veja o
   [changelog do modpack](https://github.com/IunaMC/modpack/blob/main/MUDANCAS.md).
-- **Outros assuntos:** [contato@iuna.space](mailto:contato@iuna.space).
+- **Outros assuntos:** [contato@iuna.club](mailto:contato@iuna.club).
 
 <p align="center"><sub>Feito com carinho no Brasil 🇧🇷</sub></p>
