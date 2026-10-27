@@ -34,6 +34,9 @@ changelog and a place for the community to report problems and suggest ideas.
 
 ## Get the modpack
 
+- **CurseForge:** [pack page](https://www.curseforge.com/projects/1752945).
+  Install it with the CurseForge app or Prism Launcher (*Add Instance →
+  CurseForge*).
 - **`.mrpack` file:** [iuna.club/mrpack](https://iuna.club/mrpack) always
   downloads the latest version. Import it in Prism Launcher (*Add Instance →
   Import*) or the Modrinth App (*Import from file*).
